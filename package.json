@@ -1,0 +1,16 @@
+{
+  "name": "cats-js",
+  "version": "1.0.1",
+  "description": "Wrapper for The Cat API",
+  "main": "cats.js",
+  "keywords": [
+    "cat",
+    "animal",
+    "cute"
+  ],
+  "dependencies": {
+	"request": "latest",
+	"xml2json": "latest"
+  },
+  "author": "Salvage <saalvage@gmail.com>"
+}
