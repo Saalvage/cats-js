@@ -66,3 +66,5 @@ c.get({results_per_page: 10, type: "gif"}).then((cats) => {console.log(cats)});
    }
 }
 ```
+
+### See docs/index.html for a detailed documentation!
